@@ -427,7 +427,7 @@ h1 {
     }
 
     .adresse {
-        text-align: center; font-size: 1.125rem;
+        text-align: center; font-size: 10px;
     }
 
     .titre2-contact-accueil {
@@ -820,3 +820,4 @@ h1 {
 }
 
 /*TABLETTE FIN*/
+
