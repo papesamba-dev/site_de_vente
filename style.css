@@ -427,7 +427,7 @@ h1 {
     }
 
     .adresse {
-        text-align: center; font-size: 1.19rem;
+        text-align: center; font-size: 1.125rem;
     }
 
     .titre2-contact-accueil {
@@ -818,4 +818,5 @@ h1 {
 }
     /*Code css pour la page catalogue.html fin*/
 }
+
 /*TABLETTE FIN*/
